@@ -21,7 +21,7 @@ This project is a simple web page presenting the main tourist attractions of Bus
 
 ```bash
 # Clone this repository
-git clone https://github.com/sillasemanoel/study-tourist-spot
+git clone https://github.com/sillasemanoel/study-tourist-spot.git
 
 # Enter the project folder
 cd study-tourist-spot
